@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Depesh Sharma
 
-🚀 **2nd Year UG student in Computer Science and Engineering at GNDEC, Ludhiana**
+🚀 **3rd Year UG student in Computer Science and Engineering at GNDEC, Ludhiana**
 
 ---
 
@@ -13,6 +13,9 @@
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
 
 #### Tools:
 - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
